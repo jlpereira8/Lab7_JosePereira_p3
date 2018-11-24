@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LAB_7.dir/main.cpp.o CMakeFiles/LAB_7.dir/Producto.cpp.o CMakeFiles/LAB_7.dir/Libro.cpp.o CMakeFiles/LAB_7.dir/Ropa.cpp.o CMakeFiles/LAB_7.dir/Electronico.cpp.o CMakeFiles/LAB_7.dir/Videojuego.cpp.o CMakeFiles/LAB_7.dir/Computadora.cpp.o CMakeFiles/LAB_7.dir/Caja.cpp.o  -o LAB_7 
